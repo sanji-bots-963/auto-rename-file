@@ -3,8 +3,8 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "28525384")
-    API_HASH  = os.environ.get("API_HASH", "3a1190585fe5bf1f6324be87ba5b68c6")
+    API_ID    = os.environ.get("API_ID", "27390437")
+    API_HASH  = os.environ.get("API_HASH", "8dcef0252047d3a4556ad80280db4146")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7344619571:AAH0uZsTAVbNJCZsE7LckSsWvlZaH8lzEOc") 
 
     # database config
@@ -82,7 +82,7 @@ Use These Keywords To Setup Custom File Name
     
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
     
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> """
+<b>🛍 UPI ID:</b> <code>zorosan110@axl</code> """
     
     HELP_TXT = """<b>Hey</b> {}
     
